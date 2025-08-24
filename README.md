@@ -57,7 +57,7 @@ This repository contains the **SolidWorks design files** and **rendered images**
 
 Each subsystem folder contains a **SolidWorks model** (`.SLDPRT` / `.SLDASM`) and a **rendered image** for quick visualization. Example preview:  
 
-![Chassis Render](Chassis/Chassis_Render.png)  
+![Chassis Render](https://github.com/Team-Deimos-IIT-Mandi/Rover-CAD/blob/main/ROCKER/ROCKER%20RENDER.JPG)  
 
 ⚙️ How to Open the Files  
 1. Open `.SLDPRT` or `.SLDASM` files in **SolidWorks 2018 or later**.  
